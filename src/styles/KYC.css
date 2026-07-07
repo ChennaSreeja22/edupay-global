@@ -1,0 +1,107 @@
+.kyc-page{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:#eef4ff;
+
+    padding:20px;
+
+}
+
+.kyc-card{
+
+    width:420px;
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:35px;
+
+    text-align:center;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+}
+
+.success-icon{
+
+    font-size:30px;
+
+    margin-bottom:12px;
+
+}
+
+.kyc-card h2{
+
+    color:#1565ff;
+
+    margin-bottom:10px;
+
+}
+
+.kyc-card p{
+
+    color:#666;
+
+    margin-bottom:25px;
+
+}
+
+.status{
+
+    margin-bottom:25px;
+
+}
+
+.status-item{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:12px;
+
+    background:#f5f8ff;
+
+    border-radius:10px;
+
+    margin-bottom:10px;
+
+}
+
+.status-item span:first-child{
+
+    color:green;
+
+    font-weight:bold;
+
+}
+
+.kyc-card button{
+
+    width:100%;
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#1565ff;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
