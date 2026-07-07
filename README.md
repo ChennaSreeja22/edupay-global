@@ -1,5 +1,9 @@
 # 🌍 EduPay Global
 
+## 🌐 Live Demo
+
+https://edupay-global.vercel.app/
+
 EduPay Global is a fintech MVP designed to simplify international education payments for students and their families. The application provides a simple and transparent way for parents to send tuition fees and living expenses abroad while tracking transfers in real time.
 
 This project was developed as the Week 4 Capstone Project for **Product Management 101** in Learners' Space.
