@@ -53,6 +53,12 @@ function TransferStatus() {
       
       </p>
 
+      <button
+          onClick={() => navigate("/dashboard")}
+      >
+          Back to Dashboard
+      </button>
+
       </div>
 
       </div>

@@ -115,6 +115,13 @@ function SendMoney(){
                     Confirm Transfer
                 </button>
 
+                <button
+                    className="secondary-btn"
+                    onClick={() => navigate("/dashboard")}
+                >
+                    ← Back to Dashboard
+                </button>
+
             </div>
 
         </div>
